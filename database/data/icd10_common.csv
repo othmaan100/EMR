@@ -1,0 +1,221 @@
+code,description
+A01.0,Typhoid fever
+A01.4,"Paratyphoid fever, unspecified"
+A03.9,"Shigellosis, unspecified"
+A06.0,Acute amoebic dysentery
+A09,Diarrhoea and gastroenteritis of presumed infectious origin
+A15.0,"Tuberculosis of lung, confirmed by sputum microscopy"
+A16.2,"Tuberculosis of lung, without mention of bacteriological or histological confirmation"
+A30.9,"Leprosy, unspecified"
+A37.9,"Whooping cough, unspecified"
+A39.0,Meningococcal meningitis
+A41.9,"Sepsis, unspecified"
+A46,Erysipelas
+A53.9,"Syphilis, unspecified"
+A54.9,"Gonococcal infection, unspecified"
+A56.0,Chlamydial infection of lower genitourinary tract
+A59.0,Urogenital trichomoniasis
+A60.0,Herpesviral infection of genitalia and urogenital tract
+A90,Dengue fever [classical dengue]
+A95.9,"Yellow fever, unspecified"
+B01.9,Varicella without complication
+B05.9,Measles without complication
+B15.9,Hepatitis A without hepatic coma
+B16.9,Acute hepatitis B without delta-agent and without hepatic coma
+B18.1,Chronic viral hepatitis B without delta-agent
+B18.2,Chronic viral hepatitis C
+B20,HIV disease resulting in infectious and parasitic diseases
+B24,Unspecified human immunodeficiency virus [HIV] disease
+B26.9,Mumps without complication
+B35.4,Tinea corporis
+B36.0,Pityriasis versicolor
+B37.0,Candidal stomatitis
+B37.3,Candidiasis of vulva and vagina
+B50.9,"Plasmodium falciparum malaria, unspecified"
+B50.8,Other severe and complicated Plasmodium falciparum malaria
+B54,Unspecified malaria
+B65.9,"Schistosomiasis, unspecified"
+B77.9,"Ascariasis, unspecified"
+B82.9,"Intestinal parasitism, unspecified"
+B86,Scabies
+C18.9,"Malignant neoplasm: Colon, unspecified"
+C22.0,Liver cell carcinoma
+C34.9,"Malignant neoplasm: Bronchus or lung, unspecified"
+C50.9,"Malignant neoplasm: Breast, unspecified"
+C53.9,"Malignant neoplasm: Cervix uteri, unspecified"
+C61,Malignant neoplasm of prostate
+D25.9,"Leiomyoma of uterus, unspecified"
+D50.9,"Iron deficiency anaemia, unspecified"
+D57.0,Sickle-cell anaemia with crisis
+D57.1,Sickle-cell anaemia without crisis
+D64.9,"Anaemia, unspecified"
+D69.6,"Thrombocytopenia, unspecified"
+E03.9,"Hypothyroidism, unspecified"
+E05.9,"Thyrotoxicosis, unspecified"
+E10.9,Type 1 diabetes mellitus without complications
+E11.9,Type 2 diabetes mellitus without complications
+E11.6,Type 2 diabetes mellitus with other specified complications
+E16.2,"Hypoglycaemia, unspecified"
+E40,Kwashiorkor
+E41,Nutritional marasmus
+E43,Unspecified severe protein-energy malnutrition
+E46,Unspecified protein-energy malnutrition
+E66.9,"Obesity, unspecified"
+E78.5,"Hyperlipidaemia, unspecified"
+E86,Volume depletion
+E87.1,Hypo-osmolality and hyponatraemia
+E87.6,Hypokalaemia
+F10.2,Mental and behavioural disorders due to use of alcohol: dependence syndrome
+F20.9,"Schizophrenia, unspecified"
+F32.9,"Depressive episode, unspecified"
+F41.1,Generalized anxiety disorder
+F41.9,"Anxiety disorder, unspecified"
+G03.9,"Meningitis, unspecified"
+G40.9,"Epilepsy, unspecified"
+G43.9,"Migraine, unspecified"
+G44.2,Tension-type headache
+G51.0,Bell palsy
+G62.9,"Polyneuropathy, unspecified"
+H10.9,"Conjunctivitis, unspecified"
+H25.9,"Senile cataract, unspecified"
+H40.9,"Glaucoma, unspecified"
+H52.4,Presbyopia
+H60.9,"Otitis externa, unspecified"
+H65.9,"Nonsuppurative otitis media, unspecified"
+H66.9,"Otitis media, unspecified"
+I10,Essential (primary) hypertension
+I11.9,Hypertensive heart disease without (congestive) heart failure
+I20.9,"Angina pectoris, unspecified"
+I21.9,"Acute myocardial infarction, unspecified"
+I25.1,Atherosclerotic heart disease
+I48,Atrial fibrillation and flutter
+I50.9,"Heart failure, unspecified"
+I63.9,"Cerebral infarction, unspecified"
+I64,"Stroke, not specified as haemorrhage or infarction"
+I80.2,Phlebitis and thrombophlebitis of other deep vessels of lower extremities
+I83.9,Varicose veins of lower extremities without ulcer or inflammation
+I84.9,Unspecified haemorrhoids without complication
+J00,Acute nasopharyngitis [common cold]
+J01.9,"Acute sinusitis, unspecified"
+J02.9,"Acute pharyngitis, unspecified"
+J03.9,"Acute tonsillitis, unspecified"
+J06.9,"Acute upper respiratory infection, unspecified"
+J11.1,"Influenza with other respiratory manifestations, virus not identified"
+J15.9,"Bacterial pneumonia, unspecified"
+J18.9,"Pneumonia, unspecified"
+J20.9,"Acute bronchitis, unspecified"
+J21.9,"Acute bronchiolitis, unspecified"
+J30.4,"Allergic rhinitis, unspecified"
+J44.9,"Chronic obstructive pulmonary disease, unspecified"
+J45.9,"Asthma, unspecified"
+J46,Status asthmaticus
+K02.9,"Dental caries, unspecified"
+K04.7,Periapical abscess without sinus
+K21.9,Gastro-oesophageal reflux disease without oesophagitis
+K25.9,"Gastric ulcer, unspecified as acute or chronic, without haemorrhage or perforation"
+K27.9,"Peptic ulcer, site unspecified, unspecified as acute or chronic, without haemorrhage or perforation"
+K29.7,"Gastritis, unspecified"
+K30,Dyspepsia
+K35.8,"Acute appendicitis, other and unspecified"
+K40.9,"Unilateral or unspecified inguinal hernia, without obstruction or gangrene"
+K52.9,"Noninfective gastroenteritis and colitis, unspecified"
+K56.6,Other and unspecified intestinal obstruction
+K58.9,Irritable bowel syndrome without diarrhoea
+K59.0,Constipation
+K74.6,Other and unspecified cirrhosis of liver
+K80.2,Calculus of gallbladder without cholecystitis
+K81.0,Acute cholecystitis
+K85.9,"Acute pancreatitis, unspecified"
+L01.0,Impetigo [any organism] [any site]
+L02.9,"Cutaneous abscess, furuncle and carbuncle, unspecified"
+L03.9,"Cellulitis, unspecified"
+L20.9,"Atopic dermatitis, unspecified"
+L23.9,"Allergic contact dermatitis, unspecified cause"
+L30.9,"Dermatitis, unspecified"
+L50.9,"Urticaria, unspecified"
+L70.0,Acne vulgaris
+L89.9,Decubitus ulcer and pressure area of unspecified stage
+M06.9,"Rheumatoid arthritis, unspecified"
+M10.9,"Gout, unspecified"
+M17.9,"Gonarthrosis, unspecified"
+M19.9,"Arthrosis, unspecified"
+M25.5,Pain in joint
+M54.2,Cervicalgia
+M54.5,Low back pain
+M62.6,Muscle strain
+M79.1,Myalgia
+N10,Acute tubulo-interstitial nephritis
+N17.9,"Acute renal failure, unspecified"
+N18.9,"Chronic kidney disease, unspecified"
+N20.0,Calculus of kidney
+N30.0,Acute cystitis
+N39.0,"Urinary tract infection, site not specified"
+N40,Hyperplasia of prostate
+N41.0,Acute prostatitis
+N45.9,Orchitis and epididymitis without abscess
+N61,Inflammatory disorders of breast
+N70.9,"Salpingitis and oophoritis, unspecified"
+N73.9,"Female pelvic inflammatory disease, unspecified"
+N76.0,Acute vaginitis
+N92.0,Excessive and frequent menstruation with regular cycle
+N94.6,"Dysmenorrhoea, unspecified"
+N97.9,"Female infertility, unspecified"
+O03.9,Spontaneous abortion: complete or unspecified without complication
+O06.9,Unspecified abortion: complete or unspecified without complication
+O13,Gestational [pregnancy-induced] hypertension
+O14.9,"Pre-eclampsia, unspecified"
+O15.9,"Eclampsia, unspecified as to time period"
+O21.0,Mild hyperemesis gravidarum
+O24.4,Diabetes mellitus arising in pregnancy
+O46.9,"Antepartum haemorrhage, unspecified"
+O72.1,Other immediate postpartum haemorrhage
+O80,Single spontaneous delivery
+O82,Single delivery by caesarean section
+O99.0,Anaemia complicating pregnancy childbirth and the puerperium
+P07.3,Other preterm infants
+P21.9,"Birth asphyxia, unspecified"
+P36.9,"Bacterial sepsis of newborn, unspecified"
+P59.9,"Neonatal jaundice, unspecified"
+R05,Cough
+R06.0,Dyspnoea
+R07.4,"Chest pain, unspecified"
+R10.4,Other and unspecified abdominal pain
+R11,Nausea and vomiting
+R17,Unspecified jaundice
+R19.7,"Diarrhoea, unspecified"
+R25.1,Tremor
+R42,Dizziness and giddiness
+R50.9,"Fever, unspecified"
+R51,Headache
+R53,Malaise and fatigue
+R55,Syncope and collapse
+R56.0,Febrile convulsions
+R56.8,Other and unspecified convulsions
+R63.4,Abnormal weight loss
+R68.8,Other specified general symptoms and signs
+S00.9,"Superficial injury of head, part unspecified"
+S06.0,Concussion
+S09.9,"Unspecified injury of head"
+S52.5,Fracture of lower end of radius
+S61.9,"Open wound of wrist and hand, part unspecified"
+S62.6,Fracture of other finger
+S72.0,Fracture of neck of femur
+S82.2,Fracture of shaft of tibia
+S82.6,Fracture of lateral malleolus
+S93.4,Sprain and strain of ankle
+T14.1,Open wound of unspecified body region
+T14.9,"Injury, unspecified"
+T30.0,"Burn of unspecified body region, unspecified degree"
+T63.0,Toxic effect: Snake venom
+T78.2,"Anaphylactic shock, unspecified"
+T78.4,"Allergy, unspecified"
+W54,Bitten or struck by dog
+Z00.0,General medical examination
+Z00.1,Routine child health examination
+Z01.4,Gynaecological examination (general)(routine)
+Z23.9,Need for immunization against single bacterial diseases
+Z30.0,General counselling and advice on contraception
+Z30.9,"Contraceptive management, unspecified"
+Z34.9,"Supervision of normal pregnancy, unspecified"
+Z71.1,Person with feared complaint in whom no diagnosis is made
+Z76.0,Issue of repeat prescription
